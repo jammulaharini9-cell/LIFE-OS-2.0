@@ -1,0 +1,6 @@
+{
+  "name": "Life OS 2.0",
+  "description": "Comprehensive personal operating system with 17 modular domains, productivity tracking, and rich visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
